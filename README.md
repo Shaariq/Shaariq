@@ -1,4 +1,4 @@
-<h1 align='center'> Hey, I'm Shaariq 😁✌🏻 </h1>
+<h1 align='center'> Hey, I'm Shaariq ✌🏻😁 </h1>
 
 <p align='center'>
   I live in Johannesburg, South Africa and I am studying computer science at the University of Witwatersrand
