@@ -1,7 +1,7 @@
 <h1 align='center'> Hey, I'm Shaariq ✌🏻😁 </h1>
 
 <p align='center'>
-  I live in Johannesburg, South Africa and am working on my own projects right now
+  I am a BSc(Hons) Computer Science student from Pretoria, South Africa.
 </p>
 
 <p align='center'>
