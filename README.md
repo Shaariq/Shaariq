@@ -1,7 +1,7 @@
 <h1 align='center'> Hey, I'm Shaariq ✌🏻😁 </h1>
 
 <p align='center'>
-  I am a BSc(Hons) Computer Science student at the University of Pretoria, South Africa
+  I am a BSc(Hons) Computer Science graduate
 </p>
 
 <p align='center'>
